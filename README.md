@@ -32,6 +32,17 @@ https://github.com/SpotX-CLI
 - YouTube Music th-ch:
 https://github.com/th-ch/youtube-music
 
+        Web-based resources
+
+- This random plex server i found on a chilloutvr world
+https://plex.requi.dev/index
+This person's server contains some really up to date movies (in dvd/bluray rip form so they can be a bit big), some games retro and not, some software as well, and a whole lot more media. How much you should trust the games and software, i dont know, but the movies tvshows and music are definitely trustworthy (ive downloaded from those before). 
+- FitGirl Repacks
+https://fitgirl-repacks.site
+Really good source for repacked games and DLC. Found all sims 4 DLC on there for FREE (couldnt get it running over proton though bc linux) (BY THE WAY You will need a torrenter, i recommend qbittorrent, its open source and it worked fine when i tried it) (ALSO This IS piracy. Your ISP also might get mad at you for using a torrent even if for legal reasons also torrenting will use a fuck ton of bandwidth)
+https://steamunlocked.net/
+Bunch of free steam games. I dont know how many are malicious. Uses a shitty file hoster, I recommend getting your games from fitgirl. 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 			    more coming soon

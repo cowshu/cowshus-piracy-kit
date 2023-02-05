@@ -22,7 +22,7 @@ https://github.com/xManager-v2/xManager-Spotify
 Lucky Patcher (hack mobile games, resist freemium):
 https://www.luckypatchers.com/ 
 (note taht there are many impersonators of luckypatchers.com giving out malicious versions of the app. this is the real site, and can be trusted!)
-(please also note that Lucky Patcher is commonly detected as malware, however it is not. It gets flagged this way due to it injecting it's own code into other apps, however this behavior can only be initiated by the user, with their consent and full knowledge of what they are doing. Note that patching using this app could get you punished by the app/game's moderation (you can remove ads get free in-app purchases and more). I am unaware if you can get punished on any Google services like google play games, but be cautious.)
+(please also note that Lucky Patcher is commonly detected as malware, however it is not. It gets flagged this way due to it injecting it's own code into other apps, however this behavior can only be initiated by the user, with their consent and full knowledge of what they are doing. Note that patching using this app could get you punished by the app/game's moderation (you can remove ads get free in-app purchases and more). I am unaware if you can get punished on any Google services like google play games, but be cautious.) (Hey! I recently found some games may not even start if the luckypatcher package is found on your phone. I tried to play Cookie Run: KIngdom, but it only would start after I uninstalled LP.)
 
 	Desktop Apps
 

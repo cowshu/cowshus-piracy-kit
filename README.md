@@ -35,7 +35,7 @@ https://github.com/th-ch/youtube-music
         Web-based resources
 
 - This random plex server i found on a chilloutvr world
-https://plex.requi.dev/index
+https://plex.requi.dev/index SHUT DOWN!!
 This person's server contains some really up to date movies (in dvd/bluray rip form so they can be a bit big), some games retro and not, some software as well, and a whole lot more media. How much you should trust the games and software, i dont know, but the movies tvshows and music are definitely trustworthy (ive downloaded from those before). 
 - FitGirl Repacks
 https://fitgirl-repacks.site

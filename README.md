@@ -42,6 +42,9 @@ https://fitgirl-repacks.site
 Really good source for repacked games and DLC. Found all sims 4 DLC on there for FREE (couldnt get it running over proton though bc linux) (BY THE WAY You will need a torrenter, i recommend qbittorrent, its open source and it worked fine when i tried it) (ALSO This IS piracy. Your ISP also might get mad at you for using a torrent even if for legal reasons also torrenting will use a fuck ton of bandwidth)
 https://steamunlocked.net/
 Bunch of free steam games. I dont know how many are malicious. Uses a shitty file hoster, I recommend getting your games from fitgirl. 
+- 1337x
+https://1337x.to
+good piracy site. also you should use a paid vpn while torrenting or just use a seedbox
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
